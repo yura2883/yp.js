@@ -1,0 +1,26 @@
+{
+  "name": "yp.js",
+  "version": "1.0.0",
+  "description": "Common javascript tool for Google closure compiler in advanced opt",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yura2883/yp.js.git"
+  },
+  "keywords": [
+    "Javascript",
+    "DOM",
+    "table",
+    "data",
+    "ajax"
+  ],
+  "author": "Povalyaev Yuriy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yura2883/yp.js/issues"
+  },
+  "homepage": "https://github.com/yura2883/yp.js#readme"
+}
