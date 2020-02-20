@@ -16,3 +16,8 @@ export {addAttrs,
 import ypTableData from './src/yp-table-data.js'
 
 export {ypTableData}
+
+
+import ypAjaxJSON from './src/yp-ajax-json.js'
+
+export {ypAjaxJSON}
